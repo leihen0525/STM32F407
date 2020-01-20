@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>4133768967</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Event.Define.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.__cstat.et</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Module\Module.h</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Core.Device.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Device.Struct.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Timer.Enum.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>F:\Project.Software\Master.System\Master.Drivers\Master.Drivers.STM32F407\Release.Library\Master.Drivers.STM32F407.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\STM32F407.pbd</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Socket.Type.h</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\API.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\STM32F407.out</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Error.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.PHY.LAN8742A.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Socket.Define.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+            <file>F:\Project.Software\Master.System\Master.Drivers\Master.Drivers.STM32F407\Includes\Drivers.STM32F4xx.Ether.Enum.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Device.Enum.h</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Memory.Struct.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Socket.Struct.h</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.c</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.Struct.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.PHY.LAN8742A\Ethernet.PHY.LAN8742A.c</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.PHY.LAN8742A\Ethernet.PHY.LAN8742A.Define.h</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.PHY.LAN8742A\Ethernet.PHY.LAN8742A.Enum.h</file>
+            <file>$PROJ_DIR$\Ethernet\Ethernet.PHY.LAN8742A\Ethernet.PHY.LAN8742A.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Socket.Enum.h</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Scheduling.Task.Define.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.PHY.LAN8742A.pbi</file>
+            <file>F:\Project.Software\Master.System\Master.BSP\Master.BSP.STM32F407\Release.Library\Master.BSP.STM32F407.a</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Module\Module.Struct.h</file>
+            <file>F:\Project.Software\Master.System\Master.Drivers\Master.Drivers.STM32F407\Includes\Drivers.STM32F4xx.Ether.Struct.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.o</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Timer.Define.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.PHY.LAN8742A.o</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Release.Library\Master.OS.ARM.V7.M4.a</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\MPU.Define.h</file>
+            <file>F:\Project.Software\Master.System\Master.Library\Master.Library.Peripherals.STM32\Release.Library\Master.Library.Peripherals.STM32F407.a</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Event.Enum.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\STM32F407.hex</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\Master.Stdint.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Release.Library\Master.COM.Ethernet.ARM.M4.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\Ethernet.pbi</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\List\STM32F407.map</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Includes\IRQ.Define.h</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Includes\Net.Socket.h</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Config\STM32F407xG.icf</file>
+            <file>F:\Project.Software\Master.System\Master.OS\Init\Init.Main.c</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Socket\Socket.c</file>
+            <file>F:\Project.Software\Master.System\Master.COM\Master.COM.Ethernet\Session\Session.c</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 15 56</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\STM32F407.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 56</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 51</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 59 44 46 43 40 47 53 9 49 55 31 11 12</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 43</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 8</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36 52 20 41 22 6 2 38 19 23 58 37 21 28 13</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 2 41 52 22 36 6 20 19 23 38 58 37 21 28 13</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Ethernet\Ethernet.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 3 7 52 5 27 6 17 42 57 0 20 38 26 2 4 25 35 45 50 48 22 36 41 30 14 19 23</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 14 17 52 22 36 6 20 19 23 38 57 45 7 50 0 48 27 2 41 4 5 26 25 42 35 3 30</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Ethernet\Ethernet.PHY.LAN8742A\Ethernet.PHY.LAN8742A.c</name>
+            <outputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 39</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 18</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 48 35 17 25 45 22 19 52 34 14 3 38 50 36 23 33 57 7 0 27 6 20 30</file>
+                </tool>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33 34 25 14 17 52 22 36 6 20 19 23 38 57 45 7 50 0 48 27 35 3 30</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
